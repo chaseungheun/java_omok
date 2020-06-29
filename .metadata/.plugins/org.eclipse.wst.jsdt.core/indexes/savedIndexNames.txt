@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Â÷½ÂÈÆ\Desktop\omok_CSH\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3848422388.index
+2393254261.index
+3192228414.index
+1874028878.index
+208648990.index
+828923440.index
